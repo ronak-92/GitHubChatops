@@ -1,4 +1,4 @@
 # GitHubChatops 
-testing
+Small description of the project.
 
 
