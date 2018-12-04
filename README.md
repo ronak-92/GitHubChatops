@@ -1,6 +1,5 @@
-# GitHubChatops 
-Small description of the project.
+# Azure DevOps Marketplace
 
-Click to deploy!!
+Please use this repo for contributing to Azure Marketplace
 
 
